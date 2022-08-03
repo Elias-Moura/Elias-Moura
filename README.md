@@ -26,12 +26,15 @@ Olá, eu sou o Elias Moura, especialista em investimentos e apaixonado por tecno
 
 ## Atualmente estudando:
 
-- Python (quero reduzir o número de tarefas repetitivas no meu trabalho) 🤖
-- JS (Web)
+- 🐍 Python (quero reduzir o número de tarefas repetitivas no meu trabalho) 🤖
+- 💻 JS (Aprendento para app Web - Via Staart)
 
 ## Meus contatos
 
-- Instagram: @Elias_smoura
-- Github: @EliasMoura
-- Likedin: @elias-moura-cea
-- Email: para contato elias.smourayt@gmail.com
+<div> 
+  <a href="https://www.instagram.com/elias_smoura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:elias.smourayt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elias-moura-cea%C2%AE-082a7719a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
+ 
