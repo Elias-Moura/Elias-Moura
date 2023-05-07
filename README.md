@@ -22,12 +22,13 @@ Olá, eu sou o Elias Moura, especialista em investimentos e apaixonado por tecno
 - 🎮 Jogar videogame com amigos
 - 🎸 Escutar música
 - 📚 Ler 
-- 📺 Assistir séries e vídeos sobre dev
+- 📺 Assistir séries, filmes e vídeos sobre dev
 
 ## Atualmente estudando:
 
 - 🐍 Python (quero reduzir o número de tarefas repetitivas no meu trabalho) 🤖
-- 💻 JS (Aprendento para app Web - Via Staart)
+- Django (Back-end)
+- 💻 JS - HTML - CSS (Front-end)
 
 ## Meus contatos
 
