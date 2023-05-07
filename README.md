@@ -26,8 +26,8 @@ Olá, eu sou o Elias Moura, especialista em investimentos e apaixonado por tecno
 
 ## Atualmente estudando:
 
-- 🐍 Python (quero reduzir o número de tarefas repetitivas no meu trabalho) 🤖
-- Django (Back-end)
+- 🐍 Python (Foco em automação de tarefas e back-end)
+- <img align="left" alt="Django" height=30 width=40 src="https://i.pinimg.com/originals/c9/20/51/c92051b40aa93f34cd4c694ccf517324.png">Django (Back-end - Web)
 - 💻 JS - HTML - CSS (Front-end)
 
 ## Meus contatos
