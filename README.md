@@ -4,7 +4,7 @@ Olá, eu sou o Elias Moura, especialista em investimentos e apaixonado por tecno
 
 <div align="center">
   <a href="https://github.com/Elias-Moura">
-  <img width=42% src="https://github-readme-stats.vercel.app/api?username=Elias-Moura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width=45% src="https://github-readme-stats.vercel.app/api?username=Elias-Moura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Moura&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
