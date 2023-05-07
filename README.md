@@ -8,13 +8,15 @@ Olá, eu sou o Elias Moura, especialista em investimentos e apaixonado por tecno
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Moura&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block">
+<div style="text-align: center;">
+<div style="display: inline_block"><br>
   <img align="center" alt="Elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django logo" height=40 width=50 src="https://i.pinimg.com/originals/c9/20/51/c92051b40aa93f34cd4c694ccf517324.png"> 
 </div>
+  </div>
 
 ## Meus hobbies:
 
