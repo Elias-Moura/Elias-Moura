@@ -16,7 +16,7 @@ Olá, eu sou o Elias Moura, especialista em investimentos e apaixonado por tecno
   <img align="center" alt="Elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django logo" height=40 width=50 src="https://i.pinimg.com/originals/c9/20/51/c92051b40aa93f34cd4c694ccf517324.png"> 
 </div>
-  </div>
+</div>
 
 ## Meus hobbies:
 
