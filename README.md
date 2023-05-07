@@ -13,6 +13,7 @@ Olá, eu sou o Elias Moura, especialista em investimentos e apaixonado por tecno
   <img align="center" alt="Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django logo" height=40 width=50 src="https://i.pinimg.com/originals/c9/20/51/c92051b40aa93f34cd4c694ccf517324.png"> 
 </div>
 
 ## Meus hobbies:
@@ -26,8 +27,7 @@ Olá, eu sou o Elias Moura, especialista em investimentos e apaixonado por tecno
 
 ## Atualmente estudando:
 
-- 🐍 Python (Foco em automação de tarefas e back-end)
-- <div><img align="left" alt="Django logo" height=40 width=50 src="https://i.pinimg.com/originals/c9/20/51/c92051b40aa93f34cd4c694ccf517324.png"> (Back-end - Web)</div>
+- 🐍 Python e Django (Foco em automação de tarefas e back-end)
 - 💻 JS - HTML - CSS (Front-end)
 
 ## Meus contatos
