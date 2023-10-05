@@ -10,12 +10,12 @@ Olá, eu sou o Elias Moura, especialista em investimentos e apaixonado por tecno
 
 <div style="text-align: center;">
   <div style="display: inline_block"><br>
-    <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" height="30" width="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" height="30" width="40" />
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" height="30" width="40"/>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react.js" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react.js" height="30" width="40"/>
   </div>
 </div>
 
