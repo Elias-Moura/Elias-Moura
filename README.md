@@ -72,7 +72,4 @@
   <a href = "mailto:eliasmoura.py@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elias-s-moura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=Elias-Moura&label=Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d90c7&height=100&section=footer"/>
