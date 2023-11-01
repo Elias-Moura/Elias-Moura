@@ -33,6 +33,36 @@ Olá, eu sou o Elias Moura, especialista em investimentos e apaixonado por tecno
 - ☕ Java e Spring Boot (Back-end)
 - 💻 TypeScript - React (Front-end)
 
+## Projetos em destaque⚡:
+### Alura Books 📚
+- Categoria: Front-end.
+- Página web de uma livraria on-line.
+- [Projeto em produção](https://elias-moura.github.io/alura-books/)
+- [Repositório](https://github.com/Elias-Moura/alura-books)
+- Tecnologias abordadas: HTML5 e CSS3 com mobile first e design responsivo.
+
+### Alura Plus ✨
+- Categoria: Front-end.
+- Uma landing page da Alura e Alura lingua.
+- [Projeto em produção](https://elias-moura.github.io/AluraPlus/)
+- [Repositório](https://github.com/Elias-Moura/AluraPlus)
+- Tecnologias abordadas: HTML5 e CSS3.
+
+### Blog Pessoal 🖊️
+- Categoria: Back-end.
+- Back-end Em Java e Spring Boot.
+- Projeto em construção 🏗️
+- [Repositório](https://github.com/Elias-Moura/blog-java)
+- Tecnologias abordadas: Java, Spring Boot, MySQL.
+- Boas práticas: DTO, Separation of Concerns, SOLID.
+
+### Alura-studies 📚
+- Categoria: Front-end
+- Gerenciador de tempo de estudos com React e Typescript.
+- Projeto em construção 🏗️
+- [Repositório](https://github.com/Elias-Moura/alura-studies)
+- Tecnologias abordadas: React, Typescript, SCSS, CSS Modules.
+
 ## Meus contatos
 
 <div> 
