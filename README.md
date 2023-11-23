@@ -35,6 +35,7 @@
 
 - ☕ Java e Spring Boot (Back-end)
 - 💻 TypeScript - React (Front-end)
+- 🤓 Python e Go Lang (Por hobbie)
   
 ## Projetos em destaque⚡:
 ### Alura Books 📚
